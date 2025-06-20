@@ -1,6 +1,5 @@
-# 커플, 솔로 모두를 위한 연애 플랫폼, SomePick
 ![KakaoTalk_20250619_180603954_01](https://github.com/user-attachments/assets/d9b2325a-18bb-4084-9c5f-1977145f6956)
-
+# 커플, 솔로 모두를 위한 연애 플랫폼, SomePick
 
 <br>
 
